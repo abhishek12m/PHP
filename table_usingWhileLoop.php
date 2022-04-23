@@ -29,7 +29,6 @@ table, th, td {
                     echo "</th>";
                     $num++;
                     echo "</td>";
-                    
                 }
             }
             table(1,100);
